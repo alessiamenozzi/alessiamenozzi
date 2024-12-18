@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**alessiamenozzi/alessiamenozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi! My name is Alessia Menozzi. Here's a bit about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Bachelor's degree in Computer Science Engineering from the University of Modena and Reggio Emilia (2022).
+🎓 Master's degree in Computer Science Engineering, specialized in Artificial Intelligence from the Politecnico di Milano (2024).
+
+🌟 My Passions
+
+🤖 Artificial Intelligence: Exploring intelligent systems and their applications in solving real-world problems.
+🧠 Neural Networks: Designing and optimizing architectures for deep learning models.
+📊 Data Science & Machine Learning: Analyzing data and building predictive models to unlock insights.
+🚀 Technology & Innovation: Driving progress through cutting-edge technologies and creative solutions.
+
+
+📬 Get in Touch
+📧 Email: alessia.menoz@gmail.com
+🔗 LinkedIn:  LinkedIn
+
+
+## 👨‍💻 About Me
+
+Hi! My name is **Stefano Baroni**. Here's a bit about me:  
+- 🎓 **Bachelor's degree** in Computer Science Engineering from the University of Modena and Reggio Emilia (2022).  
+- 🎓 **Master's degree** in Computer Science Engineering, specialized in Artificial Intelligence from the Politecnico di Milano (2024).  
+
+## 🌟 My Interest
+
+- 🤖 Artificial Intelligence: Exploring intelligent systems and their applications in solving real-world problems
+- 🧠 Neural Networks: Designing and optimizing architectures for deep learning models.
+- 📊 Data Science & Machine Learning: Analyzing data and building predictive models to unlock insights.
+- 🚀 Technology & Innovation: Driving progress through cutting-edge technologies and creative solutions.
+
+## 📬 Get in Touch
+
+- 📧 **Email**: alessia.menoz@gmail.com  
+- 🔗 **LinkedIn**: www.linkedin.com/in/alessia-menozzi-a4487115b
